@@ -10,3 +10,16 @@ R ou C) com o tipo de cobaia (S:Sapo, R:Rato ou C:Coelho).
 Saída: Apresente o total de cobaias utilizadas, o total de cada tipo de cobaia
 e o percentual de cada uma em relação ao total de cobaias utilizadas
 """
+
+
+
+
+
+
+
+
+
+
+
+
+
