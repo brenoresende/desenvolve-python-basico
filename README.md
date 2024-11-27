@@ -3,6 +3,6 @@ Repositório criado para armazenar e compartilhar os arquivos criados na matéri
 
 Projeto Desenvolve - Itabira
 
-Programação básica com Python
+Introdução a Web
 
 #PDITA050
